@@ -31,6 +31,8 @@
 
 ## 🎮 Usage
 
+[Huggingface Page](https://huggingface.co/dphn/Dolphin-Mistral-24B-Venice-Edition)
+
 ### Starting the Server
 
 **Windows:**
