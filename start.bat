@@ -19,7 +19,7 @@ python\python.exe -c "import flask" >nul 2>&1
 if errorlevel 1 (
     echo.
     echo Installing dependencies...
-    python\python.exe pip install -r requirements.txt
+    python\python.exe -m pip install -r requirements.txt
     if errorlevel 1 (
         echo [ERROR] Failed to install dependencies
         pause
