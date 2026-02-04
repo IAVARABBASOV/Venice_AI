@@ -30,7 +30,7 @@
 
 ## 🎮 Usage
 
-[Huggingface Page](https://huggingface.co/dphn/Dolphin-Mistral-24B-Venice-Edition)
+[Huggingface Page](https://huggingface.co/AskVenice/venice-uncensored)
 
 ### Starting the Server
 
