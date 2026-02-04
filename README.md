@@ -32,7 +32,7 @@
 
 [Huggingface Page](https://huggingface.co/AskVenice/venice-uncensored)
 
-(Youtube)[https://www.youtube.com/watch?v=dk1vHz4qwvM]
+[Youtube](https://www.youtube.com/watch?v=dk1vHz4qwvM)
 
 ### Starting the Server
 
