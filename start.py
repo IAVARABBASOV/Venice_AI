@@ -5,6 +5,9 @@ Quick start script for Venice AI Web Interface
 
 import os
 import sys
+import webbrowser
+import threading
+import time
 
 def check_dependencies():
     """Check if required packages are installed"""
@@ -53,6 +56,11 @@ def check_gpu():
         print(f"❌ Error checking GPU: {e}")
         return False
 
+def open_browser():
+    """Open browser after a short delay to ensure server is ready"""
+    time.sleep(2)
+    webbrowser.open('http://localhost:5000')
+
 def main():
     print("="*60)
     print(" Venice AI - Web Interface Launcher")
@@ -89,8 +97,11 @@ def main():
     print("\n" + "="*60)
     print(" 🚀 Server started successfully!")
     print("="*60)
-    print("\n📍 Open in browser: http://localhost:5000")
+    print("\n📍 Opening browser: http://localhost:5000")
     print("\n⌨️  Press Ctrl+C to stop\n")
+    
+    # Open browser in background thread
+    threading.Thread(target=open_browser, daemon=True).start()
     
     try:
         app.run(debug=False, host='0.0.0.0', port=5000)
