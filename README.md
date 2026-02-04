@@ -27,7 +27,9 @@
 ### Method 1: Automated Setup (Recommended for Windows)
 
 1. **Download the All_in_One bat file to easy installation**
-   (Download VeniceAI_AllInOne)[https://github.com/IAVARABBASOV/Venice_AI/blob/main/VeniceAI_AllInOne.bat]
+  <a href="https://raw.githubusercontent.com/IAVARABBASOV/Venice_AI/main/VeniceAI_AllInOne.bat" download="VeniceAI_AllInOne.bat">
+     <button>Download VeniceAI_AllInOne</button>
+   </a>
 ---
 
 ## 🎮 Usage
