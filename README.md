@@ -9,8 +9,6 @@
 
 **A stunning cyber-noir themed web interface for running Venice AI locally with GPU acceleration**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Troubleshooting](#-troubleshooting)
-
 </div>
 
 ## 📋 Requirements
@@ -27,7 +25,7 @@
 ### Method 1: Automated Setup (Recommended for Windows)
 
 1. **Download the All_in_One bat file to easy installation**
-[Download VeniceAI_AllInOne.bat](https://github.com/IAVARABBASOV/Venice_AI/raw/main/VeniceAI_AllInOne.bat)
+[Download VeniceAI_AllInOne.bat](https://github.com/IAVARABBASOV/Venice_AI/releases/download/release/VeniceAI_AllInOne.bat)
 
 ## 🎮 Usage
 
