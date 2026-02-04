@@ -16,7 +16,7 @@
 ## 📋 Requirements
 
 ### Hardware
-- **GPU**: NVIDIA GPU with **14-18GB VRAM** (RTX 3090/4090, A5000, etc.)
+- **GPU**: NVIDIA GPU with **24-60+GB VRAM** (RTX 3090/4090, A5000, etc.)
 - **RAM**: 16GB+ system memory recommended
 - **Storage**: 50GB free space for model download
 
