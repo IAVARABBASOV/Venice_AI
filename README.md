@@ -1,10 +1,6 @@
 # Venice AI - Local Web Interface
 
 <div align="center">
-
-![Venice AI](https://img.shields.io/badge/Venice_AI-Uncensored-00ffff?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-ff006e?style=for-the-badge)
 
 **A stunning cyber-noir themed web interface for running Venice AI locally with GPU acceleration**
