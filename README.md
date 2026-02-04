@@ -8,6 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-ff006e?style=for-the-badge)
 
 **A stunning cyber-noir themed web interface for running Venice AI locally with GPU acceleration**
+<img width="2508" height="1127" alt="Screenshot 2026-02-04 114348" src="https://github.com/user-attachments/assets/f815b309-55f9-4985-9c8e-ded737e70491" />
 
 </div>
 
